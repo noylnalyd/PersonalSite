@@ -14,7 +14,7 @@ organizations:
     url: https://rackham.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include meshless methods, isogeometric modeling, and .
+bio: An incoming student to the University of Michigan with many research goals to complete. Made the most out of alma mater University of Central Florida by completing a thesis, winning a NASA design competition, and taking 5 graduate-level courses in engineering. Currently working on a reduced-node FE model of a skyscraper for alternating dynamic and spectral analysis. Planning to earn a certificate in Computational Design Engineering at U-M MICDE for the development of dissertation research.
 
 # Interests to show in About widget
 interests:
