@@ -17,19 +17,19 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - icon: java
-    icon_pack: fas
+    icon_pack: fab
     name: Java
   - icon: c
     icon_pack: fas
     name: C/C++
   - icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Python
   - icon: m
     icon_pack: fas
     name: Matlab
-  - icon: OpenMP_logo
-    icon_pack: custom
+  - icon: "OpenMP_logo"
+    icon_pack: "custom"
     name: OpenMP
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
