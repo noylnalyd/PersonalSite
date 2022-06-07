@@ -25,7 +25,7 @@ experience:
   - title: Lab Instructor
     company: UCF Modeling Methods
     company_url: ''
-    company_logo: UCF_Knights_logo
+    company_logo: University_of_Central_Florida_seal
     location: Orlando, FL
     date_start: '2020-05-01'
     date_end: '2022-05-05'
@@ -39,16 +39,16 @@ experience:
   - title: Camp Instructor
     company: UCF iSTEM
     company_url: ''
-#    company_logo: istem
+    company_logo: University_of_Central_Florida_seal
     location: Orlando, FL
     date_start: '2019-04-01'
     date_end: '2019-07-01'
-    description: Lectured on algorithms for competitive programming. Generated problems, solutions, and data for practice contests. Requires advanced knowledge of algorithm applications and teaching ability.
+    description: Lectured on algorithms for competitive programming. Generated problems, solutions, and data for practice contests. Requires knowledge of algorithm applications and teaching ability.
 
   - title: Varsity Programmer
     company: UCF Programming Team
     company_url: ''
-#    company_logo: UCF-Programming-Logo
+    company_logo: UCF_Knights_logo
     location: Orlando, FL
     date_start: '2018-08-01'
     date_end: '2020-06-01'
