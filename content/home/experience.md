@@ -25,7 +25,7 @@ experience:
   - title: Lab Instructor
     company: UCF Modeling Methods
     company_url: ''
-    company_logo: 973441
+    company_logo: UCF_Knights_logo
     location: Orlando, FL
     date_start: '2020-05-01'
     date_end: '2022-05-05'
