@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Language
-    icon: fa-java
+  - icon: pen-field
     icon_pack: fas
-    name: Java
-  - description: Language
-    icon: fa-c
+    name: Academic Writing
+  - icon: droplet
     icon_pack: fas
-    name: C/C++
-  - description: Language
-    icon: camera-retro
+    name: CFD
+  - icon: gears
     icon_pack: fas
-    name: Photography
+    name: Mech Design
+  - icon: people-group
+    icon_pack: fas
+    name: Team Engineering
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
