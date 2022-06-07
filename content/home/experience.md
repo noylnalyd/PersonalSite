@@ -25,7 +25,7 @@ experience:
   - title: Lab Instructor
     company: UCF Modeling Methods
     company_url: ''
-    company_logo: 973441
+#    company_logo: 973441
     location: Orlando, FL
     date_start: '2020-05-01'
     date_end: '2022-05-05'
@@ -39,7 +39,7 @@ experience:
   - title: Camp Instructor
     company: UCF iSTEM
     company_url: ''
-    company_logo: istem
+#    company_logo: istem
     location: Orlando, FL
     date_start: '2019-04-01'
     date_end: '2019-07-01'
@@ -48,7 +48,7 @@ experience:
    - title: Varsity Programmer
     company: UCF Programming Team
     company_url: ''
-    company_logo: UCF-Programming-Logo
+#    company_logo: UCF-Programming-Logo
     location: Orlando, FL
     date_start: '2018-08-01'
     date_end: '2020-06-01'
