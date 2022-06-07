@@ -28,9 +28,9 @@ feature:
   - icon: m
     icon_pack: fas
     name: Matlab
-  - icon: "OpenMP_logo"
-    icon_pack: "custom"
-    name: OpenMP
+  - icon: network-wired
+    icon_pack: fas
+    name: OpenMPI
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
