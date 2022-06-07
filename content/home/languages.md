@@ -16,24 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 
-    icon: fa-java
+  - icon: java
     icon_pack: fas
     name: Java
-  - description: 
-    icon: fa-c
+  - icon: c
     icon_pack: fas
     name: C/C++
-  - description: 
-    icon: fa-python
+  - icon: python
     icon_pack: fas
     name: Python
-  - description: 
-    icon: fa-m
+  - icon: m
     icon_pack: fas
     name: Matlab
-  - description: 
-    icon: OpenMP_logo
+  - icon: OpenMP_logo
     icon_pack: custom
     name: OpenMP
 # Uncomment to use emoji icons.
