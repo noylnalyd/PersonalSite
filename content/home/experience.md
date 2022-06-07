@@ -60,5 +60,5 @@ experience:
         * Bug fixing and 'Measure twice, cut once' methodology
 
 design:
-  columns: '2'
+  columns: '3'
 ---
