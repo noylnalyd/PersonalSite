@@ -17,14 +17,14 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Language
-    icon: Java
-    icon_pack: fab
-    name: Java
-  - description: 100%
-    icon: chart-line
+    icon: fa-java
     icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: Java
+  - description: Language
+    icon: fa-c
+    icon_pack: fas
+    name: C/C++
+  - description: Language
     icon: camera-retro
     icon_pack: fas
     name: Photography
