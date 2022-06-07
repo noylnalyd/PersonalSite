@@ -44,21 +44,8 @@ experience:
     date_start: '2019-04-01'
     date_end: '2019-07-01'
     description: Lectured on algorithms for competitive programming. Generated problems, solutions, and data for practice contests. Requires advanced knowledge of algorithm applications and teaching ability.
-    
-   - title: Varsity Programmer
-    company: UCF Programming Team
-    company_url: ''
-#    company_logo: UCF-Programming-Logo
-    location: Orlando, FL
-    date_start: '2018-08-01'
-    date_end: '2020-06-01'
-    description: |2-
-        Participated in competitive programming contests, funded by UCF's CECS department. Skills include:
-        
-        * Team problem solving
-        * Algorithm and time complexity knowledge
-        * Bug fixing and 'Measure twice, cut once' methodology
+
 
 design:
-  columns: '3'
+  columns: '2'
 ---
