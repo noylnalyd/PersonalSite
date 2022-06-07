@@ -6,7 +6,7 @@ title: Dylan Lyon
 superuser: true
 
 # Role/position/tagline
-role: U-Michigan Master's Student
+role: Master's Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
