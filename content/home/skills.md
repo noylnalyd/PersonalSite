@@ -25,9 +25,15 @@ feature:
   - icon: gears
     icon_pack: fas
     name: Mech Design
-  - icon: people-group
+  - icon: people-line
     icon_pack: fas
     name: Team Engineering
+  - icon: "Del"
+    icon_pack: "custom"
+    name: PDEs
+  - icon: circle-nodes
+    icon_pack: fas
+    name: FEA
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
