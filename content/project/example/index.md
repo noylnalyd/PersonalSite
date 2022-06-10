@@ -32,4 +32,6 @@ slides: example
 
 The Travelling Salesman Problem (TSP) is a famous problem in computer science with a challenging time complexity. The task is to find a shortest path that (1) Starts at a node and (2) Passes through all nodes in (3) The least amount of cost/time/distance. Originally posed for the travelling salesmen and the post office, the problem has widespread applicability including traffic design, printed circuit boards, and X-ray analysis.
 
-TSP has an NP-complete runtime, so short of a miraculous discovery, the computational time for TSP scales exponentially with the number of nodes. A dynamic-programming approach can smartly reduce the complexity to $n^2 \cdot 2^n$
+TSP has an NP-complete runtime, so short of a miraculous discovery, the computational time for TSP scales exponentially with the number of nodes. A dynamic-programming approach can smartly reduce the complexity to $O(n^2 \cdot 2^n)$ where $n$ is the number of nodes. For a postman, planning TSP for a modest $n=30$ houses would result in $966$ billion computations.
+
+But postmen don't care about having the fastest route possible. For that matter, neither do traffic designers or circuit manufacturers. They want practical solutions: A reasonably fast path computed in a reasonable amount of time.
