@@ -36,7 +36,7 @@ item:
     date_start: '2021-09-20'
     description: ''
     organization: Graduate Record Exam (GRE)
-    organization_url: https://www.coursera.org
+    organization_url: https://www.ets.org/gre
     title: 170 Quantitative / 170 Verbal
     url: 'https://www.ets.org/gre'
   - certificate_url: ''
@@ -44,9 +44,9 @@ item:
     date_start: '2021-04-15'
     description: Awarded for a successful thesis defense before a committee.
     organization: UCF Mechanical and Aerospace Engineering Department
-    organization_url: https://www.edx.org
+    organization_url: https://mae.ucf.edu/
     title: Honors In The Major - Aerospace
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://stars.library.ucf.edu/mechanicalaerospaceengineering_honors/
 
 design:
   columns: '2'
