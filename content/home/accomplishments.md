@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: ''
+  - certificate_url: 'https://www.nasa.gov/sites/default/files/atoms/files/2022_nasa_minds_winners_list_updated_0.pdf'
     date_end: ''
-    date_start: '2021-09-20'
-    description: ''
+    date_start: '2022-05-13'
+    description: 'Team lead on a project constructing a Direct-Ink-Writing 3D printer with ink swapping, auto-homing, and vibration resistance. Oh, and it can operate upside-down and in space.'
     organization: NASA MINDS
-    organization_url: https://www.coursera.org
-    title: 1st Place - Senior Division
+    organization_url: https://www.nasa.gov/stem/murep/projects/nasa-minds.html
+    title: 1st Place - Senior Division Grand Champion
     url: ''
   - certificate_url: ''
     date_end: ''
@@ -37,24 +37,16 @@ item:
     description: ''
     organization: Graduate Record Exam (GRE)
     organization_url: https://www.coursera.org
-    title: 170 Quant / 170 Verbal
-    url: ''
-  - certificate_url: https://www.edx.org
+    title: 170 Quantitative / 170 Verbal
+    url: 'https://www.ets.org/gre'
+  - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
+    date_start: '2021-04-15'
+    description: Awarded for a successful thesis defense before a committee.
+    organization: UCF Mechanical and Aerospace Engineering Department
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    title: Honors In The Major - Aerospace
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
 
 design:
   columns: '2'
