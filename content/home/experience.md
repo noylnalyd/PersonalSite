@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Lab Instructor
-    company: UCF Modeling Methods
+    company: UCF Modeling Methods for Engineers
     company_url: ''
     company_logo: University_of_Central_Florida_seal
     location: Orlando, FL
