@@ -31,6 +31,9 @@ feature:
   - icon: network-wired
     icon_pack: fas
     name: OpenMPI
+  - icon: 'Julia_Programming_Language_Logo'
+    icon_pack: "custom"
+    name: Julia
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -41,7 +44,7 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
+#- icon: 'Julia_Programming_Language_Logo'
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
