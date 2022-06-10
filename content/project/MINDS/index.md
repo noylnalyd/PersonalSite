@@ -1,8 +1,8 @@
 ---
-title: Simulated Annealing TSP Solver
-summary: An iterative and parallelized approach to high-node TSP.
+title: 3D Printing of Engineered Materials in Microgravity
+summary: Building a 3D printer in support of NASA Artemis.
 tags:
-  - Algorithms
+  - Engineering
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
