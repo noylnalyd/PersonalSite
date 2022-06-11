@@ -1,15 +1,16 @@
 ---
-title: 3D Printing of Engineered Materials in Microgravity
-summary: Building a 3D printer in support of NASA Artemis.
+title: Optimization of a Cable-Stayed Skyscraper
+summary: A reduced-node finite element model.
 tags:
   - Engineering
+  - Modeling
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: CAD model of the printer
+  caption: 1000x Displacements of First Eigenmode
   focal_point: Smart
 
 links:
