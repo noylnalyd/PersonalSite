@@ -29,6 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
     Team SenseAid designed and constructed a 3D printer for engineered materials under microgravity conditions.
 
     The NASA Artemis program plans to return humans to the Moon on a series of long-term missions. Replacement parts, materials research samples, and protective coatings will need to be manufactured on these missions in lieu of resupplies. In-situ 3D printing is being explored as a weight- and space-efficient alternative to traditional manufacturing methods like casting or machining. There exist current implementations of 3D printing in orbit aboard the ISS, such as Redwire, Inc.\'s Additive Manufacturing Facility [1]; These attempts are limited to established thermoset printer inks like polymers and simple photosets [1] [2]. Printed materials in space may require engineered properties such as fatigue, radiation, and vacuum resistance; Precluding many traditional inks. [3] Additionally, the powdered regolith of the Moon’s surface poses a near-endless supply if adapted as a printer ink, saving valuable weight at launch. [4] The high melting temperature of regolith makes thermoset print methods inviable. [5]
