@@ -9,17 +9,17 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Finished CAD model.
+  caption: CAD model of the printer
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: mail
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: Team Email
+    url: mailto:3dprintedsensors@gmail.com
 url_code: ''
-url_pdf: ''
-url_slides: ''
+url_pdf: 'https://drive.google.com/file/d/1M550i7fgubXBtJla_etN2Ih9WHftLmoo/view?usp=sharing'
+url_slides: 'https://docs.google.com/presentation/d/1KffCu_4Djt8ye6NA4sKRjehywgFIb38j/edit?usp=sharing&ouid=112094785582639916534&rtpof=true&sd=true'
 url_video: ''
 
 # Slides (optional).
