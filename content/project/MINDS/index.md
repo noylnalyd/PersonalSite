@@ -19,7 +19,7 @@ links:
     url: mailto:3dprintedsensors@gmail.com
 url_code: ''
 url_pdf: 'https://drive.google.com/file/d/1M550i7fgubXBtJla_etN2Ih9WHftLmoo/view?usp=sharing'
-url_slides: 'https://docs.google.com/presentation/d/1KffCu_4Djt8ye6NA4sKRjehywgFIb38j/edit?usp=sharing&ouid=112094785582639916534&rtpof=true&sd=true'
+url_slides: 'https://1drv.ms/p/s!AomDCXFGfwswuFcvkz7VU98SfVEE?e=ndW57b'
 url_video: ''
 
 # Slides (optional).
