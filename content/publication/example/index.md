@@ -31,7 +31,7 @@ publication_short: In *UCF STARS*
 abstract: The modified Fiala model from Westin was implemented with conditions for circulatory shock and hypothermia. The purpose is to model Emergency Preservation and Resuscitation (EPR), a procedure for inducing hypothermia in patients. Cold tissue temperatures reduce metabolism exponentially, greatly extending the window of anaerobic metabolic activity before permanent deoxygenation damage. EPR in patients undergoing hypovolemic shock can preserve the patient until primary surgical care and blood transfusions are attainable, thereby increasing survival rates. The main applications of EPR are military in-situ stabilization for transit to clinical care and extending the survivability of patients requiring prolonged surgery before blood transfusion. The model explored in this paper seeks to model the tissue temperatures of the body while enduring circulatory shock and various options of cooling devices. Calibrating this model with already available data enables its use for getting preliminary results and design parameters for prototype cooling devices. The final objective of this research is to support the design of a cooling device that can induce sustained hypothermia in a field setting, while still being mobile enough for military and ambulance use. 
 
 # Summary. An optional shortened abstract.
-summary: An FDM model for patients' body temperatures under extreme trauma during a novel clinical procedure.
+summary: An FDM model for patients' body temperatures under extreme trauma during a novel clinical procedure. Successfully defended as an undergraduate thesis.
 
 tags: []
 
