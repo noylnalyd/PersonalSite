@@ -1,6 +1,6 @@
 ---
 title: Optimization of a Cable-Stayed Skyscraper
-summary: A reduced-node finite element model of 432 Park Ave.
+summary: A reduced-node finite element model.
 tags:
   - Engineering
   - Modeling
