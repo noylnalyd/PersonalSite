@@ -13,10 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,7 +24,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
   The Travelling Salesman Problem (TSP) is a famous problem in computer science with a challenging time complexity. The task is to find a path that (1) Starts at a node and (2) Passes through all nodes in (3) The least amount of cost/time/distance. Originally posed for the travelling salesmen and the post office, the problem has widespread applicability including traffic design, printed circuit boards, and X-ray analysis.
