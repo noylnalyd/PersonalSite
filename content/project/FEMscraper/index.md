@@ -1,6 +1,6 @@
 ---
 title: Optimization of a Cable-Stayed Skyscraper
-summary: A reduced-node finite element model.
+summary: A reduced-node finite element model of 432 Park Ave.
 tags:
   - Engineering
   - Modeling
@@ -14,13 +14,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: mail
-    icon_pack: fab
-    name: Team Email
-    url: mailto:3dprintedsensors@gmail.com
+
 url_code: ''
-url_pdf: 'https://drive.google.com/file/d/1M550i7fgubXBtJla_etN2Ih9WHftLmoo/view?usp=sharing'
-url_slides: 'https://1drv.ms/p/s!AomDCXFGfwswuFcvkz7VU98SfVEE?e=ndW57b'
+url_pdf: ''
+url_slides: 'https://1drv.ms/p/s!AomDCXFGfwswrWJZ_U4u1d8NGE1R?e=TjptOk'
 url_video: ''
 
 # Slides (optional).
