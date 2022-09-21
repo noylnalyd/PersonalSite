@@ -1,23 +1,22 @@
 ---
-title: Optimization of a Cable-Stayed Skyscraper
-summary: A reduced-node finite element model.
+title: Digit Robust Controller
+summary: A controller for a bipedal, high-impulse robot.
 tags:
   - Engineering
-  - Modeling
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: 1000x Displacements of First Eigenmode
+  caption: U-M's very own Digit.
   focal_point: Smart
 
 links:
 
 url_code: ''
 url_pdf: ''
-url_slides: 'https://1drv.ms/p/s!AomDCXFGfwswrWJZ_U4u1d8NGE1R?e=TjptOk'
+url_slides: ''
 url_video: ''
 
 # Slides (optional).
@@ -28,4 +27,4 @@ url_video: ''
 # slides: example
 ---
 
-  A low-node model is produced to emulate an existing skyscraper with augmented cable stays to mitigate structural sway.
+  A kinematic tree based model of Digit, our lab's workhorse robot. Expected to couple typical robot control with the lab's state-of-the-art reachable space trajectory planning, and ultimately reach hardware testing of both pathing and balance control.
