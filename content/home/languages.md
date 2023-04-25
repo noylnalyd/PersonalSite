@@ -25,7 +25,7 @@ feature:
   - icon: python
     icon_pack: fab
     name: Python
-  - icon: 'Matlab_Logo.svg'
+  - icon: 'Matlab_Logo'
     icon_pack: "custom"
     name: Matlab
   - icon: 'MPI'
