@@ -16,8 +16,8 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: fortran
-    icon_pack: fab
+  - icon: 'Fortran_Logo'
+    icon_pack: "custom"
     name: Fortran
   - icon: c
     icon_pack: fas
