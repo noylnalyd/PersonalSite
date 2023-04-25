@@ -16,9 +16,9 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: java
+  - icon: fortran
     icon_pack: fab
-    name: Java
+    name: Fortran
   - icon: c
     icon_pack: fas
     name: C/C++
