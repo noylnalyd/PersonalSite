@@ -19,17 +19,17 @@ feature:
   - icon: 'Fortran_Logo'
     icon_pack: "custom"
     name: Fortran
-  - icon: c
-    icon_pack: fas
+  - icon: 'Cpp_Logo'
+    icon_pack: "custom"
     name: C/C++
   - icon: python
     icon_pack: fab
     name: Python
-  - icon: m
-    icon_pack: fas
+  - icon: 'Matlab_Logo.svg'
+    icon_pack: "custom"
     name: Matlab
-  - icon: network-wired
-    icon_pack: fas
+  - icon: 'MPI'
+    icon_pack: "custom"
     name: OpenMPI
   - icon: 'Julia_Programming_Language_Logo'
     icon_pack: "custom"
