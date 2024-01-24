@@ -6,30 +6,27 @@ title: Dylan Lyon
 superuser: true
 
 # Role/position/tagline
-role: Master's Student
+role: Graduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Michigan
-    url: https://rackham.umich.edu/
+  - name: Los Alamos National Lab
+    url: https://www.lanl.gov/
 
 # Short bio (displayed in user profile at end of posts)
-bio: An incoming student to the University of Michigan with many research goals to complete. Made the most out of alma mater University of Central Florida by completing a thesis, winning a NASA design competition, and taking 5 graduate-level courses in engineering. Currently working on a reduced-node FE model of a skyscraper for alternating dynamic and spectral analysis. Planning to earn a certificate in Computational Design Engineering at U-M MICDE for the development of dissertation research.
+bio: Software engineer at LANL. Masters in mechanical engineering from the University of Michigan - Ann Arbor. Bachelor's in aerospace engineering from the University of Central Florida. Likes cooking; mediocre cook.
 
 # Interests to show in About widget
 interests:
   - Meshless Modeling
   - High Performance Computing
-  - Generative Design
+  - Nonlocal Heat Transfer
 
 # Education to show in About widget
 education:
   courses:
     - course: MEng in Mechanical Engineering
       institution: University of Michigan
-      year: 2023
-    - course: Certificate in Computational Design
-      institution: U-M MICDE
       year: 2023
     - course: Bachelor's in Aerospace Engineering
       institution: University of Central Florida
