@@ -26,14 +26,14 @@ content:
 
   # Contact details (edit or remove options as required)
   email: dylanscottlyon@gmail.com
-  phone: 954 806 38 48
-  address:
-    street: 12440 Golden Knight Circle, Bldg 21 Unit 104-B
-    city: Orlando
-    region: FL
-    postcode: '33326'
-    country: United States
-    country_code: US
+#  phone: 954 806 38 48
+#  address:
+#    street: 12440 Golden Knight Circle, Bldg 21 Unit 104-B
+#    city: Orlando
+#    region: FL
+#    postcode: '33326'
+#    country: United States
+#    country_code: US
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
