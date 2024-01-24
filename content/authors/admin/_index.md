@@ -64,6 +64,6 @@ email: ''
 highlight_name: true
 ---
 
-Dylan Lyon is an incoming student to the University of Michigan with many research goals to complete. Made the most out of alma mater University of Central Florida by completing a thesis, winning a NASA design competition, and taking 5 graduate-level courses in engineering. Currently working on a reduced-node FE model of a skyscraper for alternating dynamic and spectral analysis. Planning to earn a certificate in Computational Design Engineering at U-M MICDE for the development of dissertation research.
+Software engineer at LANL. Masters in mechanical engineering from the University of Michigan - Ann Arbor. Bachelor's in aerospace engineering from the University of Central Florida. Likes cooking; mediocre cook.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
