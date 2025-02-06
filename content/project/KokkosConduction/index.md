@@ -14,10 +14,6 @@ image:
   focal_point: Smart
 
 links:
-  - icon: mail
-    icon_pack: fab
-    name: Team Email
-    url: mailto:dylanscottlyon@gmail.com
 url_code: ''
 url_pdf: ''
 url_slides: 'https://drive.google.com/file/d/1xtNHJ-cX0RnOoudYdZHEgpe9APdiwYVY/view?usp=sharing'
