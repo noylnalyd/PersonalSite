@@ -1,5 +1,5 @@
 ---
-title: Porting Eulerian Multiphysics Solver xRAGE to GPU-Capable C++
+title: Porting Multiphysics Solver xRAGE to GPU-Capable C++
 summary: Strategy for matrix construction in FVM PDEs.
 tags:
   - Modeling
