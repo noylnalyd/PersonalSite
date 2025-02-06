@@ -6,7 +6,7 @@ title: Dylan Lyon
 superuser: true
 
 # Role/position/tagline
-role: Graduate Research Assistant
+role: Scientist I
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://www.lanl.gov/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software engineer at LANL. Masters in mechanical engineering from the University of Michigan - Ann Arbor. Bachelor's in aerospace engineering from the University of Central Florida. Likes cooking; mediocre cook.
+bio: Scientist at LANL. Masters in mechanical engineering from the University of Michigan - Ann Arbor. Bachelor's in aerospace engineering from the University of Central Florida. Likes cooking; mediocre cook.
 
 # Interests to show in About widget
 interests:
