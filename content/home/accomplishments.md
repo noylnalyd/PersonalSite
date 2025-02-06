@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 'https://www.nasa.gov/sites/default/files/atoms/files/2022_nasa_minds_winners_list_updated_0.pdf'
+  - certificate_url: 'https://www.nasa.gov/learning-resources/minority-university-research-education-project/about-nasa-minds)'
     date_end: ''
     date_start: '2022-05-13'
     description: 'Team lead on a project constructing a Direct-Ink-Writing 3D printer with ink swapping, auto-homing, and vibration resistance. Oh, and it can operate upside-down and in space.'
