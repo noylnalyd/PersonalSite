@@ -64,6 +64,6 @@ email: ''
 highlight_name: true
 ---
 
-Software engineer at LANL. Masters in mechanical engineering from the University of Michigan - Ann Arbor. Bachelor's in aerospace engineering from the University of Central Florida. Likes cooking; mediocre cook.
+Scientist at LANL. Masters in mechanical engineering from the University of Michigan - Ann Arbor. Bachelor's in aerospace engineering from the University of Central Florida. Likes cooking; mediocre cook.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
