@@ -10,7 +10,7 @@ date: '2025-02-05T00:00:00Z'
 external_link: ''
 
 image:
-  caption: xRAGE simulation of Chicxulub asteroid.
+  caption: NIF indirect drive artist's rendering.
   focal_point: Smart
 
 links:
